@@ -8,9 +8,11 @@ const Main = () =>{
 
             </div>
             <div className=''>
-                
+
             </div>
         </div>
         </>
-    )
-}
+    );
+};
+
+export default Main
