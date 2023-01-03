@@ -6,7 +6,7 @@ const Card = () => {
         <div className="card">
             <img src="./images/imagebook3.jpeg" alt="" />
             <div className='bottom'>
-                <h3 className='title'>Book</h3>
+                <h3 className='title'>Spring boot</h3>
                 <p className='amount'>&#8377;3290</p>
             </div>
         </div> 
