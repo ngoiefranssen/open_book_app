@@ -13,7 +13,7 @@ const Main = () => {
                         <input type='text' placeholder='Enter your book name....' />
                         <button><i className="fa-solid fa-magnifying-glass"></i></button>
                     </div>
-                    <img src="./images/imgbook_1.png" alt="" />
+                    <img src="./images/imgbook_2.jpeg" alt="" />
                 </div>
             </div>
         </>
